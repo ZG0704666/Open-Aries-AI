@@ -1,0 +1,17 @@
+# Build outputs
+build/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# Runtime artifacts
+aries_agent.log
+screenshot.png
+
+# Local secure storage files
+.api_key_*_secure
+.custom_provider_*_secure
+.custom_provider_list
+aries_config.json

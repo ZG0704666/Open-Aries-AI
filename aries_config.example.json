@@ -1,0 +1,9 @@
+{
+  "security": {
+    "allowExecute": false,
+    "allowFileWrite": false,
+    "allowFileDelete": false,
+    "allowFileRun": false,
+    "requireHighRiskConfirmation": true
+  }
+}
